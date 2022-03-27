@@ -1,0 +1,12 @@
+<form [formGroup]="form">
+    <mat-form-field>
+        <mat-placeholder>Insert Number</mat-placeholder>
+        <input matInput type="number" formControlName="inputNumber">
+        <mat-error *ngIf="form.get('inputNumber')?.hasError('required')">Field is required</mat-error>
+        <mat-error *ngIf="form.get('inputNumber')?.hasError('min')">Minimum allowed value is 1</mat-error>
+        <mat-error *ngIf="form.get('inputNumber')?.hasError('max')">Maximum allowed value is 10</mat-error>
+        <button mat-button matSuffix color="primary" (click)="serviceCalled.emit()" [disabled]="form.invalid">
+            Load Data
+        </button>
+    </mat-form-field>
+</form>

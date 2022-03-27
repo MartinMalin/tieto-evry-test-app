@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Chef's Knife",
+        "status": "replace"
+    },
+    {
+        "name": "Cutting Board",
+        "status": "replace"
+    },
+    {
+        "name": "Can Opener",
+        "status": "dirty"
+    },
+    {
+        "name": "Measuring Cups",
+        "status": "replace"
+    },
+    {
+        "name": "Measuring Spoons",
+        "status": "replace"
+    },
+    {
+        "name": "Mixing Bowls",
+        "status": "clean"
+    },
+    {
+        "name": "Colander",
+        "status": "clean"
+    },
+    {
+        "name": "Vegetable Peeler",
+        "status": "clean"
+    },
+    {
+        "name": "Potato Masher",
+        "status": "replace"
+    },
+    {
+        "name": "Whisk",
+        "status": "replace"
+    },
+    {
+        "name": "Salad Spinner",
+        "status": "clean"
+    },
+    {
+        "name": "Grater",
+        "status": "replace"
+    },
+    {
+        "name": "Shears",
+        "status": "dirty"
+    },
+    {
+        "name": "Citrus Juicer",
+        "status": "dirty"
+    },
+    {
+        "name": "Garlic Press",
+        "status": "replace"
+    },
+    {
+        "name": "Paring Knife",
+        "status": "dirty"
+    },
+    {
+        "name": "Bread Knife",
+        "status": "clean"
+    },
+    {
+        "name": "Honing / Sharpening Ceramic Rod",
+        "status": "replace"
+    },
+    {
+        "name": "Knife Sharpener",
+        "status": "clean"
+    },
+    {
+        "name": "Stainless Steel Skillet",
+        "status": "replace"
+    },
+    {
+        "name": "Sauté Pan",
+        "status": "replace"
+    },
+    {
+        "name": "Small Saucepan",
+        "status": "clean"
+    },
+    {
+        "name": "Medium Saucepan",
+        "status": "replace"
+    },
+    {
+        "name": "Large Pot",
+        "status": "clean"
+    },
+    {
+        "name": "Cast Iron Skillet",
+        "status": "clean"
+    },
+    {
+        "name": "Grill Pan",
+        "status": "replace"
+    },
+    {
+        "name": "Baking Sheet Pan",
+        "status": "clean"
+    },
+    {
+        "name": "Muffin Pan",
+        "status": "dirty"
+    },
+    {
+        "name": "Casserole Dish",
+        "status": "dirty"
+    },
+    {
+        "name": "Broiler Pan",
+        "status": "dirty"
+    },
+    {
+        "name": "Stockpot",
+        "status": "clean"
+    },
+    {
+        "name": "Spatula",
+        "status": "replace"
+    },
+    {
+        "name": "Stirring Spoon",
+        "status": "clean"
+    },
+    {
+        "name": "Slotted Spoon",
+        "status": "clean"
+    },
+    {
+        "name": "Tongs",
+        "status": "clean"
+    },
+    {
+        "name": "Ladle",
+        "status": "dirty"
+    },
+    {
+        "name": "Oven Mitts",
+        "status": "clean"
+    },
+    {
+        "name": "Trivet",
+        "status": "dirty"
+    },
+    {
+        "name": "Splatter Guard",
+        "status": "clean"
+    },
+    {
+        "name": "Thermometer",
+        "status": "clean"
+    },
+    {
+        "name": "Immersion Blender",
+        "status": "dirty"
+    },
+    {
+        "name": "Kitchen Scale",
+        "status": "clean"
+    },
+    {
+        "name": "Blender",
+        "status": "dirty"
+    },
+    {
+        "name": "Food Storage Containers",
+        "status": "replace"
+    },
+    {
+        "name": "Food Storage Containers (Premium)",
+        "status": "replace"
+    },
+    {
+        "name": "Aluminum Foil",
+        "status": "replace"
+    },
+    {
+        "name": "Parchment Paper",
+        "status": "dirty"
+    },
+    {
+        "name": "Towels",
+        "status": "dirty"
+    },
+    {
+        "name": "Sponges",
+        "status": "dirty"
+    },
+    {
+        "name": "Heavy Sponges",
+        "status": "clean"
+    },
+    {
+        "name": "Dish Rack",
+        "status": "clean"
+    },
+    {
+        "name": "Ice Cube Tray",
+        "status": "dirty"
+    },
+    {
+        "name": "Ice Cube Tray (Premium)",
+        "status": "dirty"
+    },
+    {
+        "name": "Small Trash Bags",
+        "status": "replace"
+    },
+    {
+        "name": "Large Trash Bags",
+        "status": "replace"
+    },
+    {
+        "name": "Small Trash Bin",
+        "status": "clean"
+    },
+    {
+        "name": "Large Trash Bin",
+        "status": "replace"
+    }
+]
